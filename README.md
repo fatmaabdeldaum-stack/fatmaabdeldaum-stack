@@ -5,7 +5,7 @@ I'm a second-year **Artificial Intelligence** student at Badr University in Assi
 ---
 
 ### 🎯 Current Focus
-- 💻 **Backend Development:** C#, .NET Core, SQL & Database Design, REST APIs
+- 💻 **Backend Development:** C#, ASP.NET Core, SQL Server, REST APIs 
 - 🧩 **Problem Solving:** Competitive Programming & Data Structures (C++)
 - 🤖 **AI & Data Science:** Machine Learning Fundamentals
 
